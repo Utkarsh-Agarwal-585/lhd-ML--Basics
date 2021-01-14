@@ -1,0 +1,65 @@
+Why Artificial Intelligence:
+1) Widely used in banking and financial industry
+2) Important feature of medical science
+3) Perfect for heavy industries
+4) Efficient use in Air transport
+5) Changed the face of gaming 
+6) Reinvent the world
+7) A great help for humans
+
+-> "Artificial Intelligence(AI) is a field of computer science that emphasizes on the creation of intelligent machines which can work and
+   react like humans".
+
+
+Applications of AI:
+Google assistant,Siri,Sophia Humanoid Robot,Self Driving Car, Self flying Drones etc.
+
+Intelligence: "It can be defined as one's capacity for understanding self-awareness,learning,emotional knowledge,planning,creativity and 
+	       problem solving".
+
+-> AI intelligence is intelligence in machines
+
+What makes Human Intelligent?
+Reasoning,Learning,Perception,Problem Solving,Linguistic Intelligence.
+
+AI,ML and DL:
+
+AI is a superset of ML and DL(Deep learning).
+DL is a subset of ML.
+ML is a subset of AI.
+
+ML around us:  Product Recommendation in Amazon, Amazon Alexa(Turn on the lights,book a ride,order cheese pizza), Movie Reccomendation on Netflix,
+		Google Traffic Prediction etc.
+What is ML?
+ML is a subset of AI which gives a machine the ability to learn without being explicity programmed.Data is the key & the learning algorithm.
+
+How Does Machine Learn?
+-> ML algo is trained using a training data set to create a model.
+-> When new input data is introduced to the ML algo,it makes a prediction on the basis of the model.
+-> The prediction is evaluated for accuracy and if the accuracy is acceptable,the ML algo is deployed.
+-> If not then the ML algo is trained again and again with an augmented training data set.
+
+Types of ML:
+1)Supervised Learning: In this, You can consider that the learning is guided by a teacher. We have a dataset which act as a teacher and its role 
+			is to train the model or the machine.Once the model gets trained it can start making a prediction or decision when new
+			data is given to it.
+Use Case: Spam Classifier(Most of the spam filtering techniques are based on text categorization methods.We employee supervised ML techniques to
+				filter the email spam messages.)
+
+2)Unsupervised Learning: The model learns through observation and finds structure in the data. Once the model is given a dataset, it automatically
+			 finds patterns & relationships in the dataset by creating clusters in it.What it cannot do is add labels to clusters,
+			 like it cannot say this is a group of apples or mangoes,but it will seperate all the apples from mangoes.
+Use Case: Netflix Recommendation(Netflix users ML and algo to help break viewers preconceived notions & find shows that might not have initially
+				choosen.)
+
+3)Reinforcement Learning: It is the ability of an agent to interact and finds out what is the best outcome.It follows the concept of bit and 
+			  trial method.The agent is rewarded or penaized with a point for a correct or wrong answer,& on the basis of the
+			  positive reward points the model train itself.
+Use Case: Self Driving Cars(Companies such as Tesla,Google,Wayve and more are working on such machines.It allows machines to learn by 
+			    experimentation.)
+
+Limitation of ML:
+-> ML algo require massive stores of training data.
+-> Lack of creativity.
+-> Error diagonsis and correction can be difficult.
+-> Time constraints in learning as it learns through historical data.
